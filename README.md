@@ -5,6 +5,8 @@ Existem dois testes para verificação da ação Logar no site Duolingo, são el
 
  - LoginComUsuarioSenha_CredenciaisCorretas_Sucesso
  - LoginComUsuarioSenha_CredenciaisErradas_Erro
+
+
 '*' Para funcionamento é necessário adicionar credenciais válidas.
 
 #### É possível executar com diferentes web drivers:
